@@ -9,7 +9,7 @@
 <a href="https://t.me/LuckyTool"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>   
 <a href="https://crowdin.com/project/luckytool"><img alt="Crowdin" src="https://badges.crowdin.net/luckytool/localized.svg"></a>
 <p>对ColorOS系统进行扩展优化的Xposed模块</p>
-<p>未经开发者授权，禁止私自搬运转载转发</p>
+<p>未经开发者授权，禁止私自搬运转载</p>
 </div>
 
 ---
