@@ -8,7 +8,7 @@
 <a href="https://github.com/luckyzyx/LuckyTool/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/luckyzyx/LuckyTool"></a>
 <a href="https://t.me/LuckyTool"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>   
 <a href="https://crowdin.com/project/luckytool"><img alt="Crowdin" src="https://badges.crowdin.net/luckytool/localized.svg"></a>
-<p>对ColorOS系统进行扩展优化的Xposed模块</p>
+<p>对ColorOS系统进行的扩展优化的Xposed模块</p>
 <p>未经开发者授权，禁止私自搬运转载</p>
 </div>
 
@@ -29,7 +29,7 @@ OnePlus 9RT A13 C13
 
 <div align="left">
 <p>
-   <b><a href="https://github.com/luckyzyx/LuckyTool/blob/main/AdaptationList.md">适配列表</a> | <a href="https://github.com/luckyzyx/LuckyTool/blob/main/Changelog.md">更新日志</a> | <a href="https://crwd.in/luckytool">参与翻译</a></b>
+   <b><a href="https://github.com/luckyzyx/LuckyTool/blob/main/AdaptationRecord.md">适配记录</a> | <a href="https://luckyzyx.github.io/LuckyTool/changelog">更新日志</a> | <a href="https://crwd.in/luckytool">参与翻译</a></b>
 </p>
 </div>
 
@@ -43,4 +43,4 @@ OnePlus 9RT A13 C13
 
 ## License
 
-[GNU General Public License v3.0](https://github.com/Simplicity-Team/WooBoxForColorOS/blob/main/LICENSE)
+[GNU General Public License v3.0](https://github.com/luckyzyx/LuckyTool/blob/main/LICENSE)
