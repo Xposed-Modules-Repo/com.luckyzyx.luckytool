@@ -29,7 +29,7 @@ OnePlus 9RT A13 C13
 
 <div align="left">
 <p>
-   <b><a href="https://github.com/luckyzyx/LuckyTool/blob/main/AdaptationRecord.md">适配记录</a> | <a href="https://luckyzyx.github.io/LuckyTool/changelog">更新日志</a> | <a href="https://crwd.in/luckytool">参与翻译</a></b>
+   <b><a href="https://luckyzyx.github.io/LuckyTool_Doc/changelog">更新日志</a> | <a href="https://crwd.in/luckytool">参与翻译</a></b>
 </p>
 </div>
 
