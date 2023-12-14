@@ -4,8 +4,8 @@
    English 丨 <b><a href="https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/blob/main/README.md">简体中文</a></b>
 </p>
 <a href="https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.luckyzyx.luckytool/total?label=Downloads"></a>
-<a href="https://github.com/luckyzyx/LuckyTool/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/luckyzyx/LuckyTool"></a>
-<a href="https://github.com/luckyzyx/LuckyTool/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/luckyzyx/LuckyTool"></a>
+<a href="https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Xposed-Modules-Repo/com.luckyzyx.luckytool"></a>
+<a href="https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Xposed-Modules-Repo/com.luckyzyx.luckytool"></a>
 <a href="https://t.me/LuckyTool"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram"></a>   
 <a href="https://crowdin.com/project/luckytool"><img alt="Crowdin" src="https://badges.crowdin.net/luckytool/localized.svg"></a>
 <p>Extended and optimized Xposed module for ColorOS</p>
