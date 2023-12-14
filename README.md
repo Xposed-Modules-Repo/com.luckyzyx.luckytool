@@ -42,6 +42,6 @@ AlphaBackupPro,KSWeb,ADM
 
 [LuckyTool](https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool)
 
-~~## License~~
+## ~~License~~
 
 ~~[GNU General Public License v3.0](https://github.com/luckyzyx/LuckyTool/blob/main/LICENSE)~~
