@@ -21,7 +21,7 @@
 
 ## 测试机型
 
-OnePlus 9RT A13 C13
+OnePlus 9RT A14 C14
 
 ## 作用域
 
