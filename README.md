@@ -45,3 +45,11 @@ AlphaBackupPro,KSWeb,ADM
 ## ~~License~~
 
 ~~[GNU General Public License v3.0](https://github.com/luckyzyx/LuckyTool/blob/main/LICENSE)~~
+
+注意：LT 的源代码仓库已在 23 年 12 月份已经进行删库，Github 上的仓库也不是我的，是我删库前别人 fork 的，此后永远也不会再次开源
+
+你愿意用就用，不愿意就一边去，少搁那酸了吧唧的道德绑架，明面上为了维护开源协议，背地里不知道是不是为了吸血，这个我们不得而知
+
+闭源不安全，说的跟开源了就安全了似的
+
+我可不是开源魔人，我也不奢望别人认可不开源的行为，无论你做什么都会引人非议，所以做好自己，即可
