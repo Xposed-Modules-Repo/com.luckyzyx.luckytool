@@ -9,6 +9,7 @@
 <a href="https://t.me/LuckyTool"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>   
 <a href="https://crowdin.com/project/luckytool"><img alt="Crowdin" src="https://badges.crowdin.net/luckytool/localized.svg"></a>
 <p>对ColorOS系统进行的扩展优化的Xposed模块</p>
+<p>免费模块，请勿上当受骗</p>
 <p>禁止引流、搬运、转载、售卖、分享、分流</p>
 <p>提倡授之以渔，切莫授之以鱼</p>
 </div>
