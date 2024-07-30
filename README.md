@@ -9,25 +9,16 @@
 <a href="https://t.me/LuckyTool"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>   
 <a href="https://crowdin.com/project/luckytool"><img alt="Crowdin" src="https://badges.crowdin.net/luckytool/localized.svg"></a>
 <p>对ColorOS系统进行的扩展优化的Xposed模块</p>
-<p>免费模块，请勿上当受骗</p>
+<p>永久免费模块，请勿上当受骗</p>
 <p>禁止引流、搬运、转载、售卖、分享、分流</p>
 <p>提倡授之以渔，切莫授之以鱼</p>
 </div>
 
 ---
 
-## 系统版本
+## 功能请求与BUG反馈
 
-推荐ColorOS12+
-
-## 测试机型
-
-OnePlus ACE3 Android14 ColorOS14
-
-## 作用域
-
-系统框架,安全中心,时钟,系统界面,系统桌面,相机,相册,应用包安装程序,游戏助手,云服务,主题商店,截屏,电池等  
-AlphaBackupPro,KSWeb,ADM
+请前往TG群组进行反馈交流
 
 <div align="left">
 <p>
@@ -38,6 +29,8 @@ AlphaBackupPro,KSWeb,ADM
 ## Xposed API
 
 [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)
+
+## Notes
 
 注意：LT 的源代码仓库已在 23 年 12 月份已经进行删库，Github 上的仓库也不是我的，是我删库前别人 fork 的，此后永远也不会再次开源
 
