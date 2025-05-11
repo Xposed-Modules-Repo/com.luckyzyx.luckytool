@@ -27,3 +27,13 @@ Please go to the Telegram group for feedback and discussion.
 ## Xposed API
 
 [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)
+
+## Star History
+
+<a href="https://www.star-history.com/#Xposed-Modules-Repo/com.luckyzyx.luckytool&Timeline">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Xposed-Modules-Repo/com.luckyzyx.luckytool&type=Timeline&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Xposed-Modules-Repo/com.luckyzyx.luckytool&type=Timeline" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Xposed-Modules-Repo/com.luckyzyx.luckytool&type=Timeline" />
+ </picture>
+</a>
