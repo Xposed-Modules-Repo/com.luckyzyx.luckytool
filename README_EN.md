@@ -14,27 +14,16 @@
 
 ---
 
-## System Version
-Recommend ColorOS 12+
+## Feature Requests and Bug Reports
 
-## Test Models
-OnePlus 9RT A13 C13
-
-## Scopes
-system framework,security center,clock,system interface,system desktop,camera,gallery,application package installer,game assistant,cloud services,theme store,screenshot,battery,etc.  
-AlphaBackupPro,KSWeb,ADM
+Please go to the Telegram group for feedback and discussion.
 
 <div align="left">
 <p>
-   <b><a href="https://luckyzyx.github.io/LuckyTool_Doc/changelog">Changelog</a> | <a href="https://crwd.in/luckytool">Participate translation</a></b>
+   <b><a href="https://luckyzyx.gitlab.io/LuckyTool_Doc/changelog">Changelog</a> | <a href="https://crwd.in/luckytool">Participate translation</a></b>
 </p>
 </div>
 
 ## Xposed API
-[YukiHookAPI](https://github.com/fankes/YukiHookAPI)
 
-## Lsposed Repo
-[LuckyTool](https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool)  
-
-## ~~License~~
-~~[GNU General Public License v3.0](https://github.com/luckyzyx/LuckyTool/blob/main/LICENSE)~~
+[YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)

@@ -16,9 +16,9 @@
 
 ---
 
-## 功能请求与BUG反馈
+## 功能请求与 BUG 反馈
 
-请前往TG群组进行反馈交流
+请前往 TG 群组进行反馈交流
 
 <div align="left">
 <p>
@@ -28,9 +28,9 @@
 
 ## 作用域优化
 
-升级系统后如果有遇到无报错但是不生效的情况，可尝试在LSPosed里长按对应的作用域点击重新优化
+升级系统后如果有遇到无报错但是不生效的情况，可尝试使用模块重启菜单里的优化 Dex 功能或者在 LSPosed 里长按对应的作用域 App 点击重新优化
 
-例如：开发者选项通知，则重新优化系统界面（
+例如：开发者选项通知无法移除，则重新优化系统界面（
 
 ## 模块违规条例解析
 
@@ -38,14 +38,24 @@
 
 售卖：免费模块，不再解释
 
-搬运、分享、分流、转载：针对模块apk文件的直接分享将视为违规，下载渠道仅推荐Github Repo(LSPosed Repo)以及模块内置的检测更新功能
+搬运、分享、分流、转载：针对模块 apk 文件的直接分享将视为违规，下载渠道仅推荐 Github Repo(LSPosed Repo)以及模块内置的检测更新功能
 
-开发者的话：基本不分享模块apk文件就没事，允许发布模块使用教程以及模块官方下载渠道(例如LSPosed Repo)
+开发者的话：基本不分享模块 apk 文件就没事，允许发布模块使用教程以及模块官方下载渠道(例如 LSPosed Repo)
 
 注意：欧加真官方渠道内提及模块、跳脸等行为默认视为违规
 
-违规后若被他人举报发现则会被ban设备，模块的后续能否存活掌握在大家手里，且用且珍惜
+模块的后续能否存活掌握在大家手里，且用且珍惜
 
 ## Xposed API
 
 [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)
+
+## Star History
+
+<a href="https://www.star-history.com/#Xposed-Modules-Repo/com.luckyzyx.luckytool&Timeline">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Xposed-Modules-Repo/com.luckyzyx.luckytool&type=Timeline&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Xposed-Modules-Repo/com.luckyzyx.luckytool&type=Timeline" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Xposed-Modules-Repo/com.luckyzyx.luckytool&type=Timeline" />
+ </picture>
+</a>
