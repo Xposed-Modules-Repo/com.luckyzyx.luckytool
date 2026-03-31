@@ -1,5 +1,7 @@
 <div align="center">
 <h1>LuckyTool</h1>
+<img src="./ic_launcher.png">
+<p></p>
 <p>
    English 丨 <b><a href="https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/blob/main/README.md">简体中文</a></b>
 </p>
